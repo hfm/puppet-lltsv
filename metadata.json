@@ -1,0 +1,15 @@
+{
+  "name": "hfm-lltsv",
+  "version": "0.1.0",
+  "author": "hfm",
+  "summary": "Install lltsv (List specified keys of Labeled Tab Separated Values).",
+  "license": "Apache-2.0",
+  "source": "https://github.cmo/hfm/puppet-lltsv",
+  "project_page": "https://github.cmo/hfm/puppet-lltsv",
+  "issues_url": "https://github.cmo/hfm/puppet-lltsv/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
