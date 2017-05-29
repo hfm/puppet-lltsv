@@ -44,5 +44,13 @@
 #
 class lltsv {
 
+  $download_link = 'https://github.com/sonots/lltsv/releases/download/'
+
+v0.6.0/lltsv_freebsd_amd64
+
+$version = 'v0.6.0'
+'lltsv_'
+$facts['kernel']
+$facts['architecture']
 
 }
